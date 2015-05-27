@@ -18,3 +18,5 @@ Below as instructions on how to connect via Instantbird, the same information ap
 When you receive a new SMSmessage, you will receive a chat from [PhoneNumber]@yappy.im
 
 Reply to this message to SMS back or send a new message to [PhoneNumber]@yappy.im to send an SMS
+
+http://yappy.uservoice.com/knowledgebase/articles/401134-how-to-connect-via-xmpp-jabber
